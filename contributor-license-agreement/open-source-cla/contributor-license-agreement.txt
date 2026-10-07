@@ -1,0 +1,20 @@
+You grant the Project Lead(s) of this project, as well as the Project Lead of any project from which this project was originally derived, a non-exclusive right to relicense your contributions under any license that is on the latest list of OSI-approved licenses at the time of relicensing, provided that:
+
+1. The project as a whole remains open source and freely available under the new license.
+
+2. The new license is compatible with the license under which the original project was distributed at the time of your contribution.
+   (License "compatibility" means that one license satisfies all conditions of the other and permits redistribution under the new license.
+   For example, if the original project uses the MIT License, relicensing under a license with additional redistribution requirements such as the GPL is permitted. However, relicensing a project that is already under such a license back to the MIT License is not allowed.
+   This definition of "compatibility" shall apply throughout this agreement.
+   The Project Lead(s) shall make a reasonable and good faith determination of compatibility consistent with the spirit of this agreement.)
+
+3. If this project integrates code from a fork, such integration is permitted only if the fork's license is compatible with this project's license.
+
+4. Any forks of this project that adopt this Contributor License Agreement may only relicense the project under licenses compatible with the original project's license.
+
+This agreement does not confer any relicensing rights to any party other than the Project Lead(s) described above.
+
+---
+
+This Contributor License Agreement (CLA) is dedicated to the public domain under the Creative Commons Zero v1.0 Universal Public Domain Dedication.
+For more information, see https://creativecommons.org/publicdomain/zero/1.0/
