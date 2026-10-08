@@ -28,6 +28,13 @@ Additional Permission under GNU General Public License version 3 (see the file
 COPYING) section 7
 
 [Independent Module Linking exception]
+Note: The following preamble text contains some errors, but it follows the
+      original text registered in SPDX.
+
+      For reference, the corrected preamble is as follows:
+        "The source code of this library is distributed under the GNU Lesser
+         General Public License (see the files COPYING.LESSER and COPYING)
+         with the following modification:"
 
 The source code of this library are distributed under the Library GNU General
 Public License (see the file COPYING) with the following modification:
