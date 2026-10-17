@@ -4,7 +4,7 @@
 [LGPLv3 or later](https://spdx.org/licenses/LGPL-3.0-or-later.html) with [Independent Module Linking exception](https://spdx.org/licenses/Independent-modules-exception.html)
 (SPDX-License-Identifier: LGPL-3.0-or-later WITH Independent-modules-exception)
 
-|Subject|License|Provision of source code|Relinking Guarantee・​OBJ Disclosure|Permission for Reverse Engineering|Provision of Installation Info|Copyright Notice|License Notice|
+|Subject|License|Provision of source code|Relinking Guarantee / OBJ Disclosure|Permission for Reverse Engineering|Provision of Installation Info|Copyright Notice|License Notice|
 |-|-|-|-|-|-|-|-|
 |This library|LGPLv3 or later with <br>Independent Module Linking exception|Required|-|-|Required (if a separate library binary is included)|Required|Required|
 |Your source code|Custom terms allowed <br>(No LGPL propagation)|Not required|-|-|-|-|-|
